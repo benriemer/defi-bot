@@ -10,7 +10,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@0x/order-utils": "^10.2.4",
+    "@0x/order-utils": "^10.4.20",
     "@truffle/hdwallet-provider": "^1.0.35",
     "@uniswap/sdk": "^3.0.3",
     "axios": "^0.19.2",
@@ -22,7 +22,7 @@
     "infura-web3-provider": "0.0.3",
     "lodash": "^4.17.15",
     "moment": "^2.25.3",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.41",
     "numeral": "^2.0.6",
     "play-sound": "",
     "sha3": "2.0.2",
